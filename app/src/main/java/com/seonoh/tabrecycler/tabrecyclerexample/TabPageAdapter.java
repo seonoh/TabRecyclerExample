@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentStatePagerAdapter;
  * Created by 선오 on 2017-01-04.
  */
 public class TabPageAdapter extends FragmentStatePagerAdapter {
-    //탭의 개수
+    //탭 개수
     private int tabcount;
 
     public TabPageAdapter(FragmentManager fm, int tabcount) {
